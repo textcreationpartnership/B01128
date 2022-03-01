@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discription of a monstrous Chylde, borne at Chychester in Sussex, the. xxiiii. daye of May. This being the very length, and bygnes of the same. M. CCCCC. LXII.</title>
+            <author>D., John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1562</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01128</idno>
+            <idno type="STC">STC 6177</idno>
+            <idno type="STC">Interim Tract Supplement Guide Huth 50[33]</idno>
+            <idno type="EEBO-CITATION">99892891</idno>
+            <idno type="PROQUEST">ocm99892891</idno>
+            <idno type="VID">182348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182348)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:4[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discription of a monstrous Chylde, borne at Chychester in Sussex, the. xxiiii. daye of May. This being the very length, and bygnes of the same. M. CCCCC. LXII.</title>
+                  <author>D., John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill (woodcut).  </extent>
+               <publicationStmt>
+                  <publisher>By Leonard Askel for Fraunces Godlyf.,</publisher>
+                  <pubPlace>Imprynted at London, :</pubPlace>
+                  <date>In the yeare of oure Lorde, 1562.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut, with letterpress verse. Cf. STC.</note>
+                  <note>Signed: q Ihon. D..</note>
+                  <note>Verse: "When God for synne, to plage hath mēt ..."</note>
+                  <note>Printed in three columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abnormalities, Human --  Poetry --  Early works to 1800.</term>
+               <term>Monsters --  Poetry --  Early works to 1800.</term>
+               <term>Sussex (England) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182348:1"/>
+            <!-- PDF PAGE 15 -->
+            <head>¶ A diſcription of a monſtrous Chylde, borne at Chycheſter in Suſſex, the .xxiiii. daye of May. This being the very length, and bygnes of the ſame. M. CCCCC. LXII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WHen God for ſynne, to plage hath me<g ref="char:cmbAbbrStroke">̄</g>t</l>
+               <l>Although, he longe defarde</l>
+               <l>He tokens truly, ſtraunge hath ſent</l>
+               <l>To make hys foes a fearde.</l>
+            </lg>
+            <lg>
+               <l>That they thereby, might take remorce</l>
+               <l>Of their yll lyfe miſpent</l>
+               <l>And more of loue, then feare or force</l>
+               <l>Their formall faultes repent.</l>
+            </lg>
+            <lg>
+               <l>Before the earth was ouerflowen</l>
+               <l>With waters huge throughout</l>
+               <l>He ſent them Noe, that holy one</l>
+               <l>Who dayly went about.</l>
+            </lg>
+            <lg>
+               <l>To call them then, to Godly lyfe</l>
+               <l>At whome they laughte and fumde</l>
+               <l>He was contemde of man and wyfe</l>
+               <l>Tyll they were all conſumde.</l>
+            </lg>
+            <lg>
+               <l>Loth did preache moſt earneſtly</l>
+               <l>But it did not preuayle:</l>
+               <l>Then fyre and brymſtone verely</l>
+               <l>Vpon them doune did hayle.</l>
+            </lg>
+            <lg>
+               <l>Pharaoes heart had no remorce</l>
+               <l>Though wounders ſtraunge he ſawe</l>
+               <l>But rather was therfore the worce</l>
+               <l>Without all feare or awe.</l>
+            </lg>
+            <lg>
+               <l>Vntyll bothe he and his therfore</l>
+               <l>By iuſtice ſent of God</l>
+               <l>In raginge ſeas, were all forlore</l>
+               <l>And then he felt the rod.</l>
+            </lg>
+            <lg>
+               <l>Ten tymes truely were the Iewes</l>
+               <l>In captiue brought and led</l>
+               <l>Before eche tyme, it God did vſe</l>
+               <l>Hys tokens ſtrange we red.</l>
+            </lg>
+            <lg>
+               <l>The yeare before Vaſpatian came</l>
+               <l>The Iewes a heyfer dreſt</l>
+               <l>Whiche beynge ſlayne, did calue a lame</l>
+               <l>This ſygne they ſone did wreſt,</l>
+            </lg>
+            <lg>
+               <l>As others doe, and ſtyll haue done</l>
+               <l>In making it as vayne</l>
+               <l>Or els good lucke, they ſaye ſhal come</l>
+               <l>As pleaſe their fooliſh brayne.</l>
+            </lg>
+            <lg>
+               <l>The Heathen could foreſe and ſaye</l>
+               <l>That when ſuche wounders were</l>
+               <l>It did foreſhew to them alwaye</l>
+               <l>That ſome yll hap drew nere.</l>
+            </lg>
+            <lg>
+               <l>The ſcripture ſayth, before the ende</l>
+               <l>Of all thinges ſhall appeare</l>
+               <l>God will wounders ſtraunge thinges ſends</l>
+               <l>As ſome is ſene this yeare.</l>
+            </lg>
+            <lg>
+               <l>The ſelye infantes, voyde of ſhape</l>
+               <l>The Calues and Pygges ſo ſtraunge</l>
+               <l>With other mo of ſuche miſhape</l>
+               <l>Declareth this worldes chaunge.</l>
+            </lg>
+            <lg>
+               <l>But here, lo, ſee aboue the reſt</l>
+               <l>A Monſter to beholde</l>
+               <l>Procedinge from a Chriſtian breſt</l>
+               <l>To monſtrous to be tolde.</l>
+            </lg>
+            <lg>
+               <l>No Caruer can, nor Paynter maye</l>
+               <l>The ſame ſo ougly make</l>
+               <l>As doeth it ſelf ſhewe at this daye</l>
+               <l>A ſight to make the quake.</l>
+            </lg>
+            <lg>
+               <l>But here thou haſte by Printing arte</l>
+               <l>A ſigne therof to ſe</l>
+               <l>Let eche man ſaye within his harte</l>
+               <l>It preacheth now, to me.</l>
+            </lg>
+            <lg>
+               <l>That I ſhoulde ſeke to lyue hencefoorth</l>
+               <l>In Godly lyfe alwaye</l>
+               <l>For theſe be tokens now ſent foorth</l>
+               <l>To preache the later daye.</l>
+            </lg>
+            <lg>
+               <l>Alſo it doeth demonſtrate playne</l>
+               <l>The great abuſe and vyce</l>
+               <l>That here in Englande now doeth raygne</l>
+               <l>That Monſtrous is the guyſe.</l>
+            </lg>
+            <lg>
+               <l>By readinge ſtories, we ſhall fynde</l>
+               <l>In ſcripture, and elles where</l>
+               <l>That when ſuche thinges came out of kynde</l>
+               <l>Gods wrath it did declare.</l>
+            </lg>
+            <lg>
+               <l>But if we lightely weye the ſame</l>
+               <l>And make but nyne dayes wonder</l>
+               <l>The Lord our ſtoutnes, ſone will tame</l>
+               <l>And ſharpely bringe vs vnder.</l>
+            </lg>
+            <lg>
+               <l>Then ponder wel betymes, long paſt</l>
+               <l>The ſequel of ſuche ſignes</l>
+               <l>And call to God by prayer in haſt</l>
+               <l>From ſinne to chaunge oure myndes.</l>
+            </lg>
+            <lg>
+               <l>Repent, amende bothe hygh and lowe</l>
+               <l>The woorde of God embrace</l>
+               <l>To lyue therto, as we ſhould doe</l>
+               <l>God gyue vs all the grace.</l>
+            </lg>
+            <closer>
+               <signed>quod. Ihon. D.</signed>
+            </closer>
+            <postscript>
+               <p>¶ The father hereof is one Vyncent, a bout<g ref="char:EOLhyphen"/>cher, bothe he and hys wyfe being of honeſt &amp; quiet conuerſation. They hauing had chyldre before, in natural proportion; and went with this her full tyme.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprynted at London, by Leonard Aſkel for Fraunces Godlyf. In the yeare of oure Lorde. 1562.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
